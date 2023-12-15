@@ -120,12 +120,13 @@ flex-direction: row;
 
 
 .weather-forecast-temperature{
-text-align: center;
-color: #7807c4;
-margin-top: 10px;
-display: flex;
-justify-content: center;
-}
+    text-align: center;
+    color: #7807c4;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    }
 
 footer{
 border-top: 1px solid #f9f7fe;
