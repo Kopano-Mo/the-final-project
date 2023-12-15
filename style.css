@@ -95,15 +95,15 @@ justify-content: center;
 
 .weather-forecast-date{
 text-align: center;
-font-size: 16px;
+font-size: 10px;
 color:#0c0c0c;
-line-height: 20px;
+line-height: 10px;
 margin-bottom: 10px;
 }
 
 .weather-app-temperature-icon{
-width: 88px;
-height: 88px;
+width: 60px;
+height: 60px;
 display: block;
 margin: 0 auto;
 }
