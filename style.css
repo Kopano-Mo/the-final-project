@@ -90,7 +90,8 @@ font-size: 28px;
 
 .weather-forecast{
 display:flex;
-justify-content: center;
+justify-content:space-around;
+margin-top: 35px;
 }
 
 .weather-forecast-date{
@@ -102,8 +103,8 @@ margin-bottom: 10px;
 }
 
 .weather-app-temperature-icon{
-width: 60px;
-height: 60px;
+width: 88px;
+height: 88px;
 display: block;
 margin: 0 auto;
 }
