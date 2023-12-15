@@ -96,7 +96,7 @@ margin-top: 35px;
 
 .weather-forecast-date{
 text-align: center;
-font-size: 30px;
+font-size: 0px;
 color:#0c0c0c;
 line-height: 16px;
 margin-bottom: 10px;
@@ -119,8 +119,11 @@ justify-content: center;
 
 
 .weather-forecast-temperature{
-padding:10px;
+text-align: center;
+color: #7807c4;
+margin-top: 10px;
 display: flex;
+justify-content: center;
 }
 
 footer{
